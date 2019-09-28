@@ -6,5 +6,4 @@ def square_array(array)
   new numbers=[9,10,16,25]
   
   square_array(new_numbers)
-  .while
 end
